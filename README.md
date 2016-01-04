@@ -14,7 +14,3 @@ In case you discoverd a functional bug, please provide an issue with all signifi
 **Feature request**
 
 You may discover that an important feature is missing in Spryker or you have an idea for improvements. Please write some notes about what is missing or could be better. The core team will comment it as soon as possible, so you will get an answer if the feature request is taken over into Spryker's backlog. These issues will be closed afterwards. [See all open feature requests](https://github.com/spryker/support/labels/Feature%20request)
-
-**Hook request**
-
-We give our best to make Spryker as open and extensible as possible. But sometimes you may find situations where you need cumbersome workarounds to implement your requirement. For instance if plugins are missing in the "right" place. In this case please add a hook request and we will look at it. [See all open hook requests](https://github.com/spryker/support/labels/Hook%20request)
