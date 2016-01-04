@@ -1,11 +1,7 @@
 # Spryker Support Desk
 This is Spryker's official support desk.
 
-You can add a [new support issue here](https://github.com/spryker/support/issues/new). Please do not assign the issue to somebody. Please make sure to:
-
-* 
-* write in english language
-* if possible add examples, screenshots, etc.
+You can add a [new support issue here](https://github.com/spryker/support/issues/new). We kindly ask you to write in english language and to not assign the issues to somebody.
 
 We are using several labels to structure the issues:
 
