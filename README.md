@@ -5,7 +5,7 @@ We are using several labels to structure the issues:
 
 **Question** 
 
-You can ask any question which is releated to Spryker's software design. Maybe you need a plan of attack for a new feature or just some information how to do things. The issue stays open until the question is answered. 
+You can ask any question which is releated to Spryker's software design. Maybe you need a plan of attack for a new feature or just some information how to do things. The issue stays open until the question is answered. ([See all open bugs](https://github.com/spryker/support/labels/Bug))
 
 **Bug**
 
