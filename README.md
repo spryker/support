@@ -1,4 +1,4 @@
-# Spryker Support Desk
+# Spryker Support Issue Tracker
 This is Spryker's official support desk. You can add a [new support issue here](https://github.com/spryker/support/issues/new). We kindly ask you to write the description of the issue in English and to not assign the issue to somebody.
 
 We are using several labels to structure the issues:
