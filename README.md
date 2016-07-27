@@ -14,6 +14,6 @@ You may discover that an important feature is missing in Spryker or that you hav
 **Question** 
 
 For discussing and asking questions, you can use Spryker community forum where we encourage our community members to share ideas and participate in discussions. In our forum we answer questions and help you find solutions to code with Spryker. 
-You can ask any question which is related to Spryker's software design. Maybe you need a plan of attack for a new feature or just some information on how to do things, we will be happy to assist. [Visit Spryker forum](http://discuss.spryker.com/).
+You can ask any question which is related to Spryker's software design. Maybe you need a plan of attack for a new feature or just some information on how to do things, we will be happy to assist. [Visit Spryker forum](http://discuss.spryker.com/)
 
 
