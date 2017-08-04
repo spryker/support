@@ -5,7 +5,7 @@ This is a
 
 For questions please consult the [Spryker Forum](http://discuss.spryker.com/).
 
-If possible please provide the exact versions of the bundles involved.
+Please provide the exact versions of the modules involved (see composer.lock file).
 
 
 ### What you did
