@@ -17,8 +17,8 @@ For discussing and asking questions, you can use Spryker community forum where w
 You can ask any question which is related to Spryker's software design. Maybe you need a plan of attack for a new feature or just some information on how to do things, we will be happy to assist. [Visit Spryker forum](http://discuss.spryker.com/)
 
 **Your project's starting points**
-https://github.com/spryker-shop/b2c-demo-shop
-https://github.com/spryker-shop/b2b-demo-shop
+- https://github.com/spryker-shop/b2c-demo-shop
+- https://github.com/spryker-shop/b2b-demo-shop
 
 **Legacy Demoshop**
-https://github.com/spryker/demoshop
+- https://github.com/spryker/demoshop
