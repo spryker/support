@@ -8,12 +8,12 @@ Spryker's official help center is located at support.spryker.com. There you can 
 
 In case you discovered a functional bug, please submit a ticket with the category "Bug Report" with all significant information including
 
-Exact versions of the modules involved (see composer.lock file)
-Related bundle-name and version
-Steps to reproduce
-Actual behavior
-Expected behavior
-Descriptive summary
+1. Exact versions of the modules involved (see composer.lock file)
+2. Related bundle-name and version
+3. Steps to reproduce
+4. Actual behavior
+5. Expected behavior
+6. Descriptive summary
 
 
 **How to request / suggest new features**
