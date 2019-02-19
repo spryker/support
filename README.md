@@ -38,4 +38,4 @@ For discussing and asking questions, you can use Spryker community forum where w
 
 - https://github.com/spryker/demoshop
 
-[]: https://support.spryker.com/hc/en-us/requests/new
+
