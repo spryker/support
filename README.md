@@ -6,7 +6,7 @@ Spryker's official help center is located at https://support.spryker.com/. There
 
 **How to report bugs**
 
-In case you discovered a functional bug, please submit a ticket with the category "Bug Report" with all significant information including
+In case you discovered a functional bug, please [submit a ticket](https://support.spryker.com/hc/en-us/requests/new) with the category "Bug Report" with all significant information including:
 
 1. Exact versions of the modules involved (see composer.lock file)
 2. Related bundle-name and version
@@ -30,10 +30,12 @@ For discussing and asking questions, you can use Spryker community forum where w
 
 **Your project's starting points**
 
-https://github.com/spryker-shop/b2c-demo-shop
-https://github.com/spryker-shop/b2b-demo-shop
+- https://github.com/spryker-shop/b2c-demo-shop  
+- https://github.com/spryker-shop/b2b-demo-shop
 
 
 **Legacy Demoshop**
 
-https://github.com/spryker/demoshop
+- https://github.com/spryker/demoshop
+
+[]: https://support.spryker.com/hc/en-us/requests/new
