@@ -1,6 +1,6 @@
 # Spryker Support Issue Tracker
 
-Spryker's official help center is located at support.spryker.com. There you can provide feedback and submit bug reports as well as participate in the community forums as well as search for technical support related knowledge base articles.
+Spryker's official help center is located at https://support.spryker.com/. There you can provide feedback and submit bug reports as well as participate in the community forums as well as search for technical support related knowledge base articles.
 
 
 
