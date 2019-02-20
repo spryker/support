@@ -25,6 +25,6 @@ As mentioned above, the technical support channel here on GitHub is deprecated; 
 
 
 
-Thank you for your help and understanding, 
+Thank you for your help and understanding,  
 Spryker Support Team
 
